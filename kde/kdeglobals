@@ -158,7 +158,7 @@ Sort directories first=true
 Sort hidden files last=false
 Sort reversed=true
 Speedbar Width=106
-View Style=Simple
+View Style=DetailTree
 
 [Shortcuts]
 Activate Next Tab=Ctrl+PgDown; Ctrl+]; Meta+N

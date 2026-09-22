@@ -6,8 +6,8 @@ RightButton;NoModifier=org.kde.contextmenu
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][49]
-ItemGeometries-1920x1080=Applet-55:1488,0,416,64,0;
-ItemGeometriesHorizontal=Applet-55:1488,0,416,64,0;
+ItemGeometries-1920x1080=Applet-55:1376,0,544,64,0;
+ItemGeometriesHorizontal=Applet-55:1376,0,544,64,0;
 activityId=4d6ad961-a53b-4c8c-8c08-bd0a6af95480
 formfactor=0
 immutability=1
@@ -244,6 +244,15 @@ plugin=org.kde.plasma.showdesktop
 
 [Containments][75][General]
 AppletOrder=51;70;53
+
+[Containments][76]
+activityId=4d6ad961-a53b-4c8c-8c08-bd0a6af95480
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
 
 [ScreenMapping]
 itemsOnDisabledScreens=
